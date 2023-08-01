@@ -12,6 +12,11 @@ Determined models to analyze:
 2. Swin Transformers
 3. Data-efficient Image Transformers(DeIT)
 
+   
+3 different methods are applied to implement models:
+- From the Scratch
+- Fine-tuning
+- Feature Extraction 
 
 
 References
