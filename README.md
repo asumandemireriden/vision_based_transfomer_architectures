@@ -21,16 +21,16 @@ Determined models to analyze:
 ### Results:
 ![vit](https://github.com/asumandemireriden/vision_based_transfomer_architectures/assets/73910961/85d73db2-2749-4771-accf-e9dee8b82dd5)
 
- Figure 1: Result of 3 different methods with ViT 
+ ##### Figure 1:   Result of 3 different methods with ViT 
 
 
 ![swin](https://github.com/asumandemireriden/vision_based_transfomer_architectures/assets/73910961/56cb2c17-f346-4ca0-9996-193724627d73)
 
-Figure 2: Result of 3 different methods with Swin Transformer
+##### Figure 2: Result of 3 different methods with Swin Transformer
 
 ![deit](https://github.com/asumandemireriden/vision_based_transfomer_architectures/assets/73910961/00d03c69-4405-4ff8-b62c-e6498cf057bc)
 
-Figure 3: Result of 2 different methods with Transformer
+##### Figure 3: Result of 2 different methods with Transformer
 
 
 
